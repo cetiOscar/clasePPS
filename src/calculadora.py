@@ -9,3 +9,6 @@ def multiplicacion(a,b):
 
 def division(a,b):
 	return a/b
+
+def funcion(a,b):
+	print("Funcion vacia")
